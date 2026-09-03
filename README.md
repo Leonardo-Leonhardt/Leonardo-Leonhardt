@@ -24,6 +24,26 @@ Sou desenvolvedor e estou sempre em busca de aprender novas tecnologias e aprimo
   <img height="180em" src="https://github-readme-stats-nine-inky-18.vercel.app/api/top-langs/?username=Leonardo-Leonhardt&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
 
+## 🚀 Projetos em destaque
+
+<div>
+  <a href="https://github.com/Leonardo-Leonhardt/Micro-RPG">
+    <img height="150em" src="https://github-readme-stats-nine-inky-18.vercel.app/api/pin/?username=Leonardo-Leonhardt&repo=Micro-RPG&theme=tokyonight"/>
+  </a>
+  <a href="https://github.com/Leonardo-Leonhardt/Trabalho-Pratico_Rouba-Monte">
+    <img height="150em" src="https://github-readme-stats-nine-inky-18.vercel.app/api/pin/?username=Leonardo-Leonhardt&repo=Trabalho-Pratico_Rouba-Monte&theme=tokyonight"/>
+  </a>
+  <a href="https://github.com/Leonardo-Leonhardt/projeto-one-piece">
+    <img height="150em" src="https://github-readme-stats-nine-inky-18.vercel.app/api/pin/?username=Leonardo-Leonhardt&repo=projeto-one-piece&theme=tokyonight"/>
+  </a>
+</div>
+
+## 📈 Atividade recente
+
+<div>
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Leonardo-Leonhardt&theme=tokyo-night&hide_border=true"/>
+</div>
+
 ## 📫 Como me encontrar
 
 <div>
@@ -33,7 +53,7 @@ Sou desenvolvedor e estou sempre em busca de aprender novas tecnologias e aprimo
   <a href="mailto:leonardoleonhardtbispo@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
   </a>
-  <a href="https://www.linkedin.com/in/leonardobispo-dev" target="_blank">
+  <a href="https://www.linkedin.com/in/leonardo-leonhardt-bispo-20b50a264/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a>
 </div>
