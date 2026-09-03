@@ -33,7 +33,7 @@ Sou desenvolvedor e estou sempre em busca de aprender novas tecnologias e aprimo
   <a href="mailto:leonardoleonhardtbispo@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
   </a>
-  <a href="https://www.linkedin.com/in/leonardo-leonhardt-bispo-20b50a264/" target="_blank">
+  <a href="https://www.linkedin.com/in/leonardobispo-dev" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a>
 </div>
